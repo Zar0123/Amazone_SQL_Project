@@ -762,7 +762,13 @@ The stored procedure also demonstrates how SQL can be used beyond reporting by a
 6. Run the stored procedure script.
 7. Test the procedure using `CALL add_sales();`.
 
-## Author
+## Author - Zar Chi Lin Htet
 
-Created as a portfolio project to demonstrate SQL, PostgreSQL, database design, data analysis, and PL/pgSQL skills.
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/zar-chi-lin-htet-863b18286)
+
+
+Thank you for your support, and I look forward to connecting with you!
 
